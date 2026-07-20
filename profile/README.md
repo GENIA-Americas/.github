@@ -7,3 +7,9 @@ GENIA-Americas recommends the following open AI resource collections:
   - A community-curated collection of AI courses, books, papers, and lectures.
   - Created by Owain Lewis, licensed under MIT.
   - We link to this resource as part of our commitment to AI education and knowledge sharing.
+
+
+## Governance & Guidelines
+
+- [Governance](https://github.com/GENIA-Americas/governance)
+  - Our policies on opening new repositories, licensing defaults, and contribution guidelines.
