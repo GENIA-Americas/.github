@@ -1,2 +1,0 @@
-# github
-AI Learning Resources
