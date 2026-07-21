@@ -1,4 +1,23 @@
+## GENIA Americas AI Toolkit
 
+Our own sequenced toolkit, each tool building on the one before it, taking an organization from readiness through governed deployment:
+
+* [ai-readiness-assessment](https://github.com/GENIA-Americas/ai-readiness-assessment)
+   * Entry point — score an organization's readiness to adopt AI. No dependency on the others.
+* [ai-maturity-evaluation](https://github.com/GENIA-Americas/ai-maturity-evaluation)
+   * Longitudinal benchmarking, reusing the readiness scoring pattern.
+* [ai-use-case-explorer](https://github.com/GENIA-Americas/ai-use-case-explorer)
+   * Reference library of AI use cases, matched to readiness/maturity results.
+* [automation-opportunity-scanner](https://github.com/GENIA-Americas/automation-opportunity-scanner)
+   * Identifies specific processes worth automating.
+* [ai-project-canvas](https://github.com/GENIA-Americas/ai-project-canvas)
+   * Scopes a flagged opportunity into a defined project.
+* [ai-roi-calculator](https://github.com/GENIA-Americas/ai-roi-calculator)
+   * Builds the financial case for a scoped project.
+* [policy-draft-assistant](https://github.com/GENIA-Americas/policy-draft-assistant)
+   * Generates draft AI governance policy for projects underway.
+* [prompt-builder](https://github.com/GENIA-Americas/prompt-builder)
+   * Day-to-day prompt-engineering utility used across the other tools.
 
 ## AI Learning Resources
 
